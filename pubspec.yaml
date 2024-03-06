@@ -10,9 +10,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  intl: ^0.18.0
-  scrollable_positioned_list: ^0.3.2
-
+  intl:
+  scrollable_positioned_list:
 dev_dependencies:
   flutter_test:
     sdk: flutter
